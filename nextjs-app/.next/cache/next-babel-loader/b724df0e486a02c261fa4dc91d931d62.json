@@ -1,0 +1,1 @@
+{"ast":null,"code":"console.log(\"this is the twitter fetcher\");","map":{"version":3,"sources":["C:/Users/Home/Desktop/Remot/Remot-Coding-Challenge/nextjs-app/pages/tweetFetcher.js"],"names":["console","log"],"mappings":"AAAAA,OAAO,CAACC,GAAR,CAAY,6BAAZ","sourcesContent":["console.log(\"this is the twitter fetcher\");"]},"metadata":{},"sourceType":"script"}
