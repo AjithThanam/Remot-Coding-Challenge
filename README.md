@@ -11,5 +11,6 @@ Next.js</br>
 Redux</br>
 Redux Thunk</br>
 </br>
-DEMO
+
+
 ![Remot Coding Challenge Demo](demo/demo.gif)
