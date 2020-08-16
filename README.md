@@ -9,4 +9,7 @@ Must Use:</br>
 React.js</br>
 Next.js</br>
 Redux</br>
-Redux Thunk
+Redux Thunk</br>
+</br>
+DEMO
+![Remot Coding Challenge Demo](demo/demo.gif)
